@@ -1,5 +1,5 @@
 # coronavirus
-studying corona
+	Studying corona
 
 
 - [x] como o corona funciona nas nossas células
@@ -7,7 +7,7 @@ studying corona
 - [ ] o que eu posso fazer com python
 
 
-
+## Steps
 
 
 
