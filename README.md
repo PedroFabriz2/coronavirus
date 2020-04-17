@@ -4,7 +4,7 @@ studying corona
 
 - [x] como o corona funciona nas nossas células
 - [x] achar o código genético(genoma) do corona
-- [] o que eu posso fazer com python
+- [ ] o que eu posso fazer com python
 
 
 
