@@ -3,8 +3,8 @@ studying corona
 
 in progress...
 
-- [ ] find corona virus RNA
-- [ ] code the decode
-- [ ] create function Translate
-- [ ] translate first aminoacid
+- [x] find corona virus RNA
+- [x] code the decode
+- [x] create function Translate
+- [x] translate first aminoacid
 - [ ] find all the aminoacids and their functions
