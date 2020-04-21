@@ -17,17 +17,17 @@
 * Usually Start Codon:  AUG
 * Usually Stop Codon:  UAG UGA UAA
 
-## Steps :wrench:
+## :wrench: Steps 
  - [x] create function that returns dictionary with decoding
  - [x] create function that translate RNA chain.
  - [ ] translate all corona RNA and find all the proteins
  - [ ] discover what is the function of each protein
 
-## Look later
+## :clock10: Look later
 ACE2 receptor protein 
 S-Protein - spike protein
 
-## Proteins - function
+## :pencil2: Proteins - function
 * Orf1ab polyprotein- _Viral protein involved in the activation of host autophagy. Autophagy is a major intracellular pathway in the delivery of cytoplasmic material to lysosomes for degradation. It is also essential for the removal of pathogenic protein aggregates from the cell during infection. Although autophagy is clearly important for antiviral immune response, it can also be activated by viruses and serves as platform for viral replication. Some viruses such as poliovirus, use the autophagic pathway as a nonlytic mechanism for viral release._
 
 
