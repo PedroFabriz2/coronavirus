@@ -1,6 +1,11 @@
 .ipynb_checkpoints
 
-corona/.ipynb_checkpoints
+jupyter/corona/.ipynb_checkpoints
 
-scripts/__pycache__
+jupyter/scripts/__pycache__
 
+jupyter/corona/.ipynb_checkpoints
+
+.DS_Store
+
+jupyter/corona/.DS_Store
