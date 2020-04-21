@@ -1,4 +1,4 @@
-# Coronavirus
+# 🦇 Coronavirus
 ###### Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome
 **Coronaviruses (CoVs) are enveloped, positive-sense, single-stranded RNA viruses that belong to the subfamily Coronavirinae, family Coronavirdiae, order Nidovirales.**
 
@@ -10,14 +10,14 @@
 
 ### what i know
 
-* Transcription is when RNA is created based on DNA
-* Reverse Transcription is when DNA is created based on RNA. That's what RNA based virus do when entry our cells
+* [Transcription](https://en.wikipedia.org/wiki/Transcription_(biology)) is when RNA is created based on DNA
+* [Reverse Transcriptase](https://en.wikipedia.org/wiki/Reverse_transcriptase) is when DNA is created based on RNA. That's what RNA based virus do when entry our cells
 * Translation is the production of amino acids based on three nuclebases(codons = 3 * nucleobase)
 * Genetic Code tells us how to decode RNA.
 *  Reading Frames for RNA (3 existing reading frames) is the way that translate happens: when Start and Finish the translate
 * Usually Start Codon:  AUG
 * Usually Stop Codon:  UAG UGA UAA
-* 2019-nCov is a temporary nomenclature and the oficial name is  Sars-CoV-2(virus from family Coronaviridae.
+* 2019-nCov is a temporary nomenclature and the oficial name is  [Sars-CoV-2(virus from family Coronaviridae)](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2).
 
 ## :wrench: Steps 
  - [x] create function that returns dictionary with decoding
@@ -47,6 +47,7 @@ Proteins | Function
 orf1ab | activation of host autophagy
 S | fusion of the virion and cellular membranes
 E, M, N | create the virus envelope
+orf1a | viral genome replication && viral protein processing
 
 
 Fonts: https://www.uniprot.org/uniprot/Q0ZJN1
@@ -54,6 +55,15 @@ Fonts: https://www.uniprot.org/uniprot/Q0ZJN1
 ## :clock10: Look later
 ACE2 receptor protein 
 S-Protein - spike protein
+
+## :mortar_board: New knowledge
+#### ORF
+* In molecular genetics, an open reading frame (ORF) is the part of a reading frame that has the ability to be translated.
+* In eukaryotic genes with multiple [exons](https://en.wikipedia.org/wiki/Exon), [introns](https://en.wikipedia.org/wiki/Intron) are removed and exons are then joined together after transcription to yield the final mRNA for protein translation.
+* One common use of open reading frames (ORFs) is as one piece of evidence to assist in [gene prediction](https://en.wikipedia.org/wiki/Gene_prediction).
+* Long ORFs are often used, along with other evidence, to initially identify candidate protein-coding regions or functional RNA-coding regions in a DNA sequence.
+* The presence of an ORF does not necessarily mean that the region is always translated.
+* By itself even a long open reading frame is not conclusive evidence for the presence of a [gene](https://en.wikipedia.org/wiki/Gene).
 
 ## Important Links and Articles
 
@@ -63,3 +73,4 @@ genome Sars-CoV-2 :arrow_forward: https://www.ncbi.nlm.nih.gov/nuccore/MN908947
 https://pt.khanacademy.org/science/biology/gene-expression-central-dogma/central-dogma-transcription/a/the-genetic-code-discovery-and-properties
 https://www.khanacademy.org/science/biology/gene-expression-central-dogma/translation-polypeptides/a/translation-overview
 https://www.sciencedirect.com/science/article/pii/S0092867420302622
+https://en.wikipedia.org/wiki/Open_reading_frame
