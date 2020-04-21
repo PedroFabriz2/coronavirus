@@ -1,31 +1,34 @@
 # coronavirus
 	Studying corona
 
+## :crystal_ball: thinking...
+- [x] How corona interact with human cells
+- [x] find genetic code of corona
+- [x] what can i do with python?
 
-- [x] como o corona funciona nas nossas células
-- [x] achar o código genético(genoma) do corona
-- [x] o que eu posso fazer com python: Translation; decode the RNA; find the proteins.
 
+## what i know
 
-## Steps
+* Transcription is when RNA is created based on DNA
+* Reverse Transcription is when DNA is created based on RNA. That's what RNA based virus do when entry our cells
+* Translation is the production of amino acids based on three nuclebases(codons = 3 * nucleobase)
+* Genetic Code tells us how to decode RNA.
+*  Reading Frames for RNA (3 existing reading frames) is the way that translate happens: when Start and Finish the translate
+* Usually Start Codon:  AUG
+* Usually Stop Codon:  UAG UGA UAA
 
- - [ ] Transcription is when RNA is formed based on DNA
- - [ ] Reverse Transcription is when DNA is formed based on RNA. That's what RNA based virus do when entry our cells
- - [ ] Translation is the production of amino acids based on three nuclebases(codons = 3 * nucleobase)
- - [ ] Genetic Code tells us how to decode RNA.
- - [ ] Reading Frames for RNA (3 existing reading frames) is the way that translate happens: when Start and Finish the translate
- - [ ] Usually Start Codon:  AUG
- - [ ] Usually Stop Codon:  UAG UGA UAA
- - [ ] create function that returns dictionary with decoding
- - [ ] create function that translate RNA chain.
+## Steps :wrench:
+ - [x] create function that returns dictionary with decoding
+ - [x] create function that translate RNA chain.
  - [ ] translate all corona RNA and find all the proteins
+ - [ ] discover what is the function of each protein
 
 ## Look later
 ACE2 receptor protein 
 S-Protein - spike protein
 
 ## Proteins - function
-* orf1ab - _Viral protein involved in the activation of host autophagy. Autophagy is a major intracellular pathway in the delivery of cytoplasmic material to lysosomes for degradation. It is also essential for the removal of pathogenic protein aggregates from the cell during infection. Although autophagy is clearly important for antiviral immune response, it can also be activated by viruses and serves as platform for viral replication. Some viruses such as poliovirus, use the autophagic pathway as a nonlytic mechanism for viral release._
+* Orf1ab polyprotein- _Viral protein involved in the activation of host autophagy. Autophagy is a major intracellular pathway in the delivery of cytoplasmic material to lysosomes for degradation. It is also essential for the removal of pathogenic protein aggregates from the cell during infection. Although autophagy is clearly important for antiviral immune response, it can also be activated by viruses and serves as platform for viral replication. Some viruses such as poliovirus, use the autophagic pathway as a nonlytic mechanism for viral release._
 
 
 ## Important Links
