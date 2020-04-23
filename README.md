@@ -24,9 +24,18 @@
  - [x] create function that translate RNA chain.
  - [x] translate all corona RNA and find all the proteins
  - [x] discover what is the function of each protein
- - [ ] discover orf3a,6,7a,8,10 functions
+ - [x] discover orf3a,6,7a,8,10 functions
  - [ ] can we unfold the corona?
  - [ ] transform the dict into json file
+ 
+## :computer: about the code
+* in corona folder, [corona.ipynb](corona/corona.ipynb) is a jupyter notebook where you can find the first code that i made
+
+* in scripts folder, [Genome.py](scripts/Genome.py) contains the genome of coronavirus import from [ncbi](https://www.ncbi.nlm.nih.gov/nuccore/MN908947).
+
+* the translate function can be found in [translate.py](scripts/translate.py) and it was used in [proteins_corona.py](scripts/proteins_corona.py) to create a dictionary with all the 9 proteins(spike, orf1ab, N, E, M and some others ORF's).
+
+* [proteins.pdf](proteins.pdf) contains more information about coronavirus proteins.
  
 ## :pencil2: Proteins - function
 * Orf1ab polyprotein- _Viral protein involved in the activation of host autophagy. Autophagy is a major intracellular pathway in the delivery of cytoplasmic material to lysosomes for degradation. It is also essential for the removal of pathogenic protein aggregates from the cell during infection. Although autophagy is clearly important for antiviral immune response, it can also be activated by viruses and serves as platform for viral replication. Some viruses such as poliovirus, use the autophagic pathway as a nonlytic mechanism for viral release._
