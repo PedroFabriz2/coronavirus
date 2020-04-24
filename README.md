@@ -26,7 +26,7 @@
  - [x] discover what is the function of each protein
  - [x] discover orf3a,6,7a,8,10 functions
  - [ ] can we unfold the corona?
- - [ ] transform the dict into json file
+ - [x] transform the dict into json file
  
 ## :computer: about the code
 * in corona folder, [corona.ipynb](corona/corona.ipynb) is a jupyter notebook where you can find the first code that i made

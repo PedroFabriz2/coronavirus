@@ -1,5 +1,6 @@
 from Genome import genome
 from translate import translation
+import json
 
 corona = genome()
 corona_1ab = {} #dictionary for the first protein "orf1ab"
@@ -20,3 +21,5 @@ corona_all_proteins['N'] = translation(corona[28274-1:29533-3].upper())
 corona_all_proteins['orf10'] = translation(corona[29558-1:29674-3].upper())
 
 #print(corona_all_proteins)
+
+f = json.dumps(corona_all_proteins)
