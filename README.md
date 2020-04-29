@@ -61,9 +61,9 @@ orf1a | viral genome replication && viral protein processing
 
 Fonts: https://www.uniprot.org/uniprot/Q0ZJN1
 
-## :clock10: Look later
-ACE2 receptor protein 
-S-Protein - spike protein
+## :clock10: Working on
+use OpenMM to folding proteins.
+molecular dynamics
 
 ## :mortar_board: New knowledge
 #### ORF
